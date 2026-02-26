@@ -189,7 +189,7 @@ TOPSIS provides a structured, quantitative approach for selecting optimal machin
 
 ---
 
-#  14. Technologies Used
+#  13. Technologies Used
 
 - Python
 - NumPy
